@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import Name from './component/Name';
 import Age from './component/Age';
